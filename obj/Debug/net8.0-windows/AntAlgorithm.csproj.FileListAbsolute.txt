@@ -1,0 +1,16 @@
+F:\проектирование и разработка\РГР\AntAlgorithm\bin\Debug\net8.0-windows\AntAlgorithm.exe
+F:\проектирование и разработка\РГР\AntAlgorithm\bin\Debug\net8.0-windows\AntAlgorithm.deps.json
+F:\проектирование и разработка\РГР\AntAlgorithm\bin\Debug\net8.0-windows\AntAlgorithm.runtimeconfig.json
+F:\проектирование и разработка\РГР\AntAlgorithm\bin\Debug\net8.0-windows\AntAlgorithm.dll
+F:\проектирование и разработка\РГР\AntAlgorithm\bin\Debug\net8.0-windows\AntAlgorithm.pdb
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.Form1.resources
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.csproj.GenerateResource.cache
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.AssemblyInfoInputs.cache
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.AssemblyInfo.cs
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.csproj.CoreCompileInputs.cache
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.dll
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\refint\AntAlgorithm.dll
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.pdb
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\AntAlgorithm.genruntimeconfig.cache
+F:\проектирование и разработка\РГР\AntAlgorithm\obj\Debug\net8.0-windows\ref\AntAlgorithm.dll
