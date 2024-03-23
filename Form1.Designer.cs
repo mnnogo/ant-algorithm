@@ -97,9 +97,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(12, 10);
             label1.Name = "label1";
-            label1.Size = new Size(134, 15);
+            label1.Size = new Size(135, 15);
             label1.TabIndex = 5;
-            label1.Text = "Значимость ферамона";
+            label1.Text = "Значимость феромона";
             // 
             // label2
             // 
@@ -132,9 +132,9 @@
             label4.AutoSize = true;
             label4.Location = new Point(12, 171);
             label4.Name = "label4";
-            label4.Size = new Size(128, 15);
+            label4.Size = new Size(129, 15);
             label4.TabIndex = 10;
-            label4.Text = "Испарение ферамона";
+            label4.Text = "Испарение феромона";
             // 
             // pTextBox
             // 
@@ -149,9 +149,9 @@
             label5.AutoSize = true;
             label5.Location = new Point(12, 224);
             label5.Name = "label5";
-            label5.Size = new Size(125, 15);
+            label5.Size = new Size(126, 15);
             label5.TabIndex = 12;
-            label5.Text = "Начальный ферамон";
+            label5.Text = "Начальный феромон";
             // 
             // startingPheramoneTextBox
             // 

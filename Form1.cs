@@ -15,8 +15,12 @@ namespace AntAlgorithm
             if (isWayCreated)
                 Reset();
 
-            townsList.Add(e.Location);  // добавляем город в список
-            DrawNode(e);                // рисуем узел на этом месте
+            if (!townsList.Contains(e.Location))
+            {
+                townsList.Add(e.Location);  // добавляем город в список если на этом месте еще нет города
+                DrawNode(e);                // рисуем узел на этом месте
+            }
+
         }
 
         private void resetButton_Click(object sender, EventArgs e)
@@ -27,6 +31,9 @@ namespace AntAlgorithm
         private void startButton_Click(object sender, EventArgs e)
         {
             if (isWayCreated)
+                return;
+
+            if (townsList.Count == 0)
                 return;
 
             if (!double.TryParse(aTextBox.Text, out double a) ||

@@ -9,6 +9,9 @@
         /// </summary>
         public static List<int> FindShortestRoad(double a, double b, double q, double p, double startingPheramone, List<Point> townsList)
         {
+            if (townsList.Count == 1)
+                return [0];
+
             _townsList = townsList;
 
             var graph = CreateOptimalGraph(a, b, q, p, startingPheramone);
